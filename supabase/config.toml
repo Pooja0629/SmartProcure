@@ -1,0 +1,4 @@
+project_id = "ewrqhizmscxequmqlaci"
+
+[functions.send-supplier-alert]
+verify_jwt = true
