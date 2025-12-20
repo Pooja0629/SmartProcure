@@ -1,4 +1,4 @@
-# Smart Procure – Inventory Optimization & Procurement Management System
+# 📦 Smart Procure – Inventory Optimization & Procurement Management System
 
 Smart Procure is an intelligent, web-based platform designed to optimize inventory management and streamline procurement processes for electronic components. It enables organizations to efficiently manage stock levels, track suppliers, automate procurement alerts, and send real-time email notifications using Supabase Edge Functions.
 
