@@ -247,3 +247,13 @@ This project is licensed under the **MIT License**.
 * Supabase for backend services and Edge Functions
 * Resend for reliable email delivery
 * Open-source community for UI libraries and tooling
+
+## 🔗 Project Links
+
+* **Repository:** [https://github.com/Pooja0629/Smart-Procure](https://github.com/Pooja0629/Smart-Procure)
+* **Issues:** [https://github.com/Pooja0629/Smart-Procure/issues](https://github.com/Pooja0629/Smart-Procure/issues)
+
+---
+
+**“Optimizing inventory decisions through automation, real-time alerts, and scalable cloud infrastructure.”**
+
